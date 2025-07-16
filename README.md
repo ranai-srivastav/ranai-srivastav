@@ -1,16 +1,13 @@
-### Hi there 👋
-This is a Work in Progress
-<!--
-**ranai-srivastav/ranai-srivastav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hey! I am Ranai srivastav and I am currently a student in the Masters of Robotic Systems Development program in the Robotic Institute at Carnegie Mellon University. 
 
-Here are some ideas to get you started:
+In robotics, my interests (in order of proficiency) lie in 
+- Perception (What is the robot seeing?) [Project example]()
+- Calibration, Localization, Mapping and State estimation (Where is the robot?) []Project Example()
+- High-level Robot Behavior Planning (What should it do?) [Project Example]()
+- Multi-agent autonomy (Can the robot use some help?) [Project Example]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+_________________
+Last updated July 15th, 2025
