@@ -1,16 +1,17 @@
-### Hi there 👋
-This is a Work in Progress
-<!--
-**ranai-srivastav/ranai-srivastav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hey! I am Ranai srivastav and I am currently a student in the Masters of Robotic Systems Development program in the Robotic Institute at Carnegie Mellon University. 
 
-Here are some ideas to get you started:
+In robotics, my interests (in order of proficiency) lie in 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Subfield | Description | Project Example Link |
+|-|-|-|
+| Perception | What is the robot seeing? | [Project example](https://github.com/ranai-srivastav/AdvCV_3dReconstruction/tree/Main) |
+| Calibration, Localization, Mapping, State Estimation | Where is the Robot and what is it experiencing? | [Project Example](https://github.com/aayush-fadia/slam-project) |
+| Algorithm and ML Optimization for Edge Devices | How fast can the robot think? | Work at Aurora Flight Sciences in the Summer of 2025 |
+| High-level Robot Behavior Planning | What should the robot do? | Work in Progress |
+| Multi-agent coordination | How to best utilize help | Work in Progress |
+
+  
+
+_________________
+Last updated Aug 21st, 2025
